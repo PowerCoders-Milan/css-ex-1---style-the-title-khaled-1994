@@ -1,1 +1,41 @@
 /* Use Selectors and attributes for the HTML design */
+h1.ti{
+    text-shadow: 2px 2px #000;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-decoration: underline ;
+    animation-name: mymove;
+    border-radius: 50px 20px;
+    margin: 0 auto;
+    padding-left: 700px;
+    
+}
+.su{
+  text-shadow: 4px 3px #333;
+  font-variant: inherit;
+  letter-spacing: 4px;
+  text-transform: lowercase;
+  text-decoration: double; 
+  margin: 0 auto;
+  padding-left: 700px;
+}
+.you{
+   text-shadow: 2px 2px #222;
+   font-variant: small-caps;
+   letter-spacing: 2px;
+   text-transform: capitalize;
+   text-decoration: line-through;
+   margin: 0 auto;
+   padding-left: 700px;
+}
+.yoursub{
+   text-shadow: slateblue;
+   color: violet;
+   font-size: initial;
+   text-transform: uppercase;
+   text-decoration: khaki;
+   animation: normal;
+   margin: 0 auto;
+   padding-left: 700px;
+}
